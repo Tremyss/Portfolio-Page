@@ -7,3 +7,46 @@
 body {
   background-color: #06ad23;
 }
+
+#container {
+  background-color: darkolivegreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 100vw;
+  height: 90vh;
+}
+
+#landing {
+  background-color: rebeccapurple;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 80%;
+  height: 80%;
+}
+
+nav {
+  background-color: darkred;
+  position: absolute;
+  height: 30px;
+  width: 100%;
+}
+
+#details {
+  background-color: khaki;
+  width: 20rem;
+  height: 15rem;
+}
+
+#project {
+  background-color: blanchedalmond;
+  width: 25rem;
+  height: 15rem;
+}
+
+#container {
+}
